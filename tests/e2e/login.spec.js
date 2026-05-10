@@ -1,4 +1,4 @@
-import { test } from '../fixtures/fixtures.js'
+import { test, expect } from '../support/index.js'
 
 test('Deve logar como administrador', async ({ loginPage, moviesPage }) => {
   await loginPage.visit()
@@ -13,7 +13,7 @@ test('Não deve logar como administrador', async ({ loginPage, toast }) => {
 
   const message =
     'Ocorreu um erro ao tentar efetuar o login. Por favor, verifique suas credenciais e tente novamente.'
-  await toast.haveText(message)
+  await toast.containText(message)
 })
 
 test('Não deve logar quando o email é inválido', async ({ loginPage, toast }) => {
@@ -41,5 +41,5 @@ test('Não deve logar quando nenhum campo é preenchido', async ({ loginPage, to
   await loginPage.visit()
   await loginPage.submit('', '')
 
-  await toast.alertHaveText('Campo obrigatório', 2)
+  await toast.alertHaveCount('Campo obrigatório', 2)
 })

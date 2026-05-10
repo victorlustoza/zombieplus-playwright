@@ -19,6 +19,7 @@
     "@faker-js/faker": "^10.4.0",
     "@playwright/test": "^1.59.1",
     "@types/node": "^25.6.0",
+    "pg": "^8.20.0",
     "prettier": "^3.8.3"
   }
 }

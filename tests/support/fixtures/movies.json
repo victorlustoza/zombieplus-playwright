@@ -1,0 +1,82 @@
+{
+  "guerra_mundial_z": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador das Nações Unidas viaja pelo mundo para descobrir a origem de uma praga zumbi que está destruindo a civilização.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "/covers/guerra-mundial-z.jpg"
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Enquanto o país é assolado por uma epidemia de zumbis, pai e filha partem em uma jornada de trem angustiante tentando chegar à única cidade que ainda não foi afetada.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "/covers/invasao-zumbi.jpg"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Um homem comum decide mudar sua vida e lutar contra uma invasão de zumbis para recuperar sua namorada.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/covers/todo-mundo-quase-morto.jpg"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Um homem acorda de um coma para descobrir que uma infecção viral transformou a população britânica em criaturas violentas e raivosas.",
+    "company": "Universal Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/covers/exterminio.jpg"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Um grupo de sobreviventes viaja pelos Estados Unidos pós-apocalípticos, enfrentando zumbis e aprendendo sobre amizade e família.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/covers/zumbilandia.jpg"
+  },
+  "zombies": {
+    "title": "Zombies",
+    "overview": "Em uma cidade onde zumbis e humanos vivem em harmonia, um jogador de futebol zumbi e uma líder de torcida humana se apaixonam, desafiando as divisões sociais.",
+    "company": "Walt Disney Studios",
+    "release_year": 2018,
+    "featured": false,
+    "cover": "/covers/zombies.jpg"
+  },
+  "cargo": {
+    "title": "Cargo",
+    "overview": "Em meio a um apocalipse zumbi na Austrália, um pai desesperado busca alguém disposto a proteger sua filha pequena.",
+    "company": "Netflix",
+    "release_year": 2018,
+    "featured": false,
+    "cover": "/covers/cargo.jpg"
+  },
+  "como_sobreviver_a_um_ataque_zumbi": {
+    "title": "Como Sobreviver a um Ataque Zumbi",
+    "overview": "Três amigos de escola que encontram seu último acampamento de escoteiro invadido por zumbis se tornam, sem querer, os defensores da cidade.",
+    "company": "Sony Pictures",
+    "release_year": 2015,
+    "featured": false,
+    "cover": "/covers/como-sobreviver.jpg"
+  },
+  "piratas_do_caribe_navegando_em_aguas_misteriosas": {
+    "title": "Piratas do Caribe: Navegando em Águas Misteriosas",
+    "overview": "O Capitão Jack Sparrow embarca em uma jornada para encontrar a Fonte da Juventude, onde enfrenta um temível pirata com uma tripulação de zumbis.",
+    "company": "Walt Disney Studios",
+    "release_year": 2011,
+    "featured": false,
+    "cover": "/covers/piratas-zumbi.jpg"
+  },
+  "operacao_overlord": {
+    "title": "Operação Overlord",
+    "overview": "Um pequeno grupo de soldados americanos descobre experimentos nazistas aterrorizantes, incluindo soldados zumbis, na véspera do Dia D.",
+    "company": "Paramount Pictures",
+    "release_year": 2018,
+    "featured": false,
+    "cover": "/covers/operacao-overlord.jpg"
+  }
+}
